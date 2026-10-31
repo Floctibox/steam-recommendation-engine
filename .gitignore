@@ -1,3 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.env
+models/*
+!models/README.md
